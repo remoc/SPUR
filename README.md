@@ -1,2 +1,2 @@
 # SPUR
-Internship at the Departemt of Computer Science in Maynooth University
+Internship at the Department of Computer Science in Maynooth University
