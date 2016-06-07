@@ -1,5 +1,6 @@
 Week 1
 Tuesday 7 June
--Downloaded and installed Rodin (and Atelier B Prover Plugin)
--Started reading 'Modelling in Event-B'
+-Downloaded and installed Rodin (and Atelier B Prover plugin)
+-Started reading 'Modelling in Event-B' by Jean-Raymond Abrial
 -Did the Traffic Lights example from the Rodin Users Handbook
+-Started reading 'A Survey on Software Clone Detection Research' to look into code clones
