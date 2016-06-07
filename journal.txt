@@ -1,0 +1,5 @@
+Week 1
+Tuesday 7 June
+-Downloaded and installed Rodin (and Atelier B Prover Plugin)
+-Started reading 'Modelling in Event-B'
+-Did the Traffic Lights example from the Rodin Users Handbook
