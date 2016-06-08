@@ -7,4 +7,4 @@ Tuesday 7 June
 -Started reading 'Cakes, Custard + Category Theory' by Eugenia Cheng
 
 Wednesday 8 June
--Reading through Section 2.5 onwards in the Rodin Handbook.
+-Reading through Section 2.5 onwards in the Rodin Handbook (doing related examples: Agatha puzzle, Traffic Light refinement).
