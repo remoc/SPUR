@@ -5,3 +5,6 @@ Tuesday 7 June
 -Did the Traffic Lights example from the Rodin Users Handbook
 -Started reading 'A Survey on Software Clone Detection Research' to look into code clones
 -Started reading 'Cakes, Custard + Category Theory' by Eugenia Cheng
+
+Wednesday 8 June
+-Reading through Section 2.5 onwards in the Rodin Handbook.
