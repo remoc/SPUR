@@ -8,3 +8,7 @@ Tuesday 7 June
 
 Wednesday 8 June
 -Reading through Section 2.5 onwards in the Rodin Handbook (doing related examples: Agatha puzzle, Traffic Light refinement).
+
+Thursday 9 June
+-Finished Rodin Handbook Tutorial
+-Went through section 7 of the Code Clones paper 
