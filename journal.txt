@@ -12,4 +12,5 @@ Wednesday 8 June
 Thursday 9 June
 -Finished Rodin Handbook Tutorial
 -Went through section 7 of the Code Clones paper 
--Attempted to start using Epsilon and the Transformation Patterns plugin in Rodin
+-Attempted to start using Epsilon and the Transformation Patterns plugin in Rodin 
+-(Transformations plugin only seems to be available for an older version of Rodin)
