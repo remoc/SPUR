@@ -18,3 +18,4 @@ Thursday 9 June
 Friday 10 June
 -Downloaded older versions of Rodin (2.4 and 2.8) in an attempt to use Transformation Patterns. It worked eventually but whenever I open a .mode file (or look at the property window) I get null poiner errors from the UI (the property window and the palette, which is not convienent) and I am still figuring out how to make the Mode diagram.
 -Looking into getting the EOL .ptrn files to work, not having much luck. Getting some kind of error from the plugin.
+-Started reading "EMF Eclipse Modeling Framework" 
