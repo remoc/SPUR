@@ -20,3 +20,12 @@ Friday 10 June
 -Looking into getting the EOL .ptrn files to work, not having much luck. Getting some kind of error from the plugin.
 -Started reading 'EMF Eclipse Modeling Framework' 
 -Tried some of the tutorial games on the Epsilon website to try to understand EOL better.
+
+Week 2
+Monday 13 June
+-Took a closer look at the operations in the Transformation Patterns plugin. The system.eol file contains them
+-Did an example of and EMF model to understand them better.
+-Looking into EOL and EMF modelling of Event-B
+-Got the Rose editor plugin for Rodin, allowing me to save Event-B as XMI (the EMF Framework) (file is .xmb) but cannot open in Ecilpse as ecore model(not the same format).
+-Reading more of the EMF book.
+-Read 'Cakes, Custard + Category Theory'.
