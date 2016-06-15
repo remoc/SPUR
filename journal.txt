@@ -35,3 +35,6 @@ Tuesday 14 June
 -Looking into Event B and Ecilspe
 -Found the ecore for Event B made for the EMF Framework plugin, and seeing what it looks like in Ecilspe by importing it.
 
+Wednesday 15 June
+-Trying to figure out the Event B ecore file, a bit stuck how to work with the generated code. Can make a machine and events, etc. by running as an Ecilpse application but cannot seem to name them. I am still unsure about how to import the .xmb file into the application.
+-Read 'Cakes, Custard + Category Theory'
