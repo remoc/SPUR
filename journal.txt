@@ -1,19 +1,19 @@
 Week 1
 Tuesday 7 June
--Downloaded and installed Rodin (and Atelier B Prover plugin)
--Started reading 'Modelling in Event-B' by Jean-Raymond Abrial
--Did the Traffic Lights example from the Rodin Users Handbook
--Started reading 'A Survey on Software Clone Detection Research' to look into code clones
--Started reading 'Cakes, Custard + Category Theory' by Eugenia Cheng
+-Downloaded and installed Rodin (and Atelier B Prover plugin).
+-Started reading 'Modelling in Event-B' by Jean-Raymond Abrial.
+-Did the Traffic Lights example from the Rodin Users Handbook.
+-Started reading 'A Survey on Software Clone Detection Research' to look into code clones.
+-Started reading 'Cakes, Custard + Category Theory' by Eugenia Cheng.
 
 Wednesday 8 June
 -Reading through Section 2.5 onwards in the Rodin Handbook (doing related examples: Agatha puzzle, Traffic Light refinement).
 
 Thursday 9 June
--Finished Rodin Handbook Tutorial
--Went through section 7 of the Code Clones paper 
--Attempted to start using Epsilon and the Transformation Patterns plugin in Rodin 
--(Transformations plugin only seems to be available for an older version of Rodin)
+-Finished Rodin Handbook Tutorial.
+-Went through section 7 of the Code Clones paper.
+-Attempted to start using Epsilon and the Transformation Patterns plugin in Rodin. 
+-(Transformations plugin only seems to be available for an older version of Rodin).
 
 Friday 10 June
 -Downloaded older versions of Rodin (2.4 and 2.8) in an attempt to use Transformation Patterns. It worked eventually but whenever I open a .mode file (or look at the property window) I get null poiner errors from the UI (the property window and the palette, which is not convienent) and I am still figuring out how to make the Mode diagram.
@@ -25,16 +25,22 @@ Week 2
 Monday 13 June
 -Took a closer look at the operations in the Transformation Patterns plugin. The system.eol file contains them
 -Did an example of and EMF model to understand them better.
--Looking into EOL and EMF modelling of Event-B
+-Looking into EOL and EMF modelling of Event-B.
 -Got the Rose editor plugin for Rodin, allowing me to save Event-B as XMI (the EMF Framework) (file is .xmb) but cannot open in Ecilpse as ecore model(not the same format).
 -Reading more of the EMF book.
 -Read 'Cakes, Custard + Category Theory'.
 
 Tuesday 14 June
--Reading EMF book
--Looking into Event B and Ecilspe
+-Reading EMF book.
+-Looking into Event B and Ecilspe.
 -Found the ecore for Event B made for the EMF Framework plugin, and seeing what it looks like in Ecilspe by importing it.
 
 Wednesday 15 June
 -Trying to figure out the Event B ecore file, a bit stuck how to work with the generated code. Can make a machine and events, etc. by running as an Ecilpse application but cannot seem to name them. I am still unsure about how to import the .xmb file into the application.
--Read 'Cakes, Custard + Category Theory'
+-Read 'Cakes, Custard + Category Theory'.
+
+Thursday 16 June
+-Still not sure how I will put the .xmb files into ecilpse even with the ecore file.
+-Looking at EMF compare within Rodin, has some errors (depending on the files you're comparing), but a good start to compare. Most errors appear in comparing the .xmb, but they have a nice model structure, which you don't get with the .buc/.bum file.
+-Read more of 'Cakes, Custard + Category Theory'.
+-Moved to the 4th year lab.
