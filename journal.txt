@@ -44,3 +44,8 @@ Thursday 16 June
 -Looking at EMF compare within Rodin, has some errors (depending on the files you're comparing), but a good start to compare. Most errors appear in comparing the .xmb, but they have a nice model structure, which you don't get with the .buc/.bum file.
 -Read more of 'Cakes, Custard + Category Theory'.
 -Moved to the 4th year lab.
+
+Friday 17 June
+-Had meeting today at 11am, Andrew and Hao gave talks about what they were doing and it was interesting.
+-Talked to James about where to go next, going to focus on getting .bum files to .xmb files 'headless'.
+-Looking into accessing Rodin 'headlessly' and saving the files as .xmb.
