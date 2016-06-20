@@ -49,3 +49,7 @@ Friday 17 June
 -Had meeting today at 11am, Andrew and Hao gave talks about what they were doing and it was interesting.
 -Talked to James about where to go next, going to focus on getting .bum files to .xmb files 'headless'.
 -Looking into accessing Rodin 'headlessly' and saving the files as .xmb.
+
+Week 3
+Monday 20 June
+-Looking into making a plugin that can be used 'headlessly' that saves the files as .xmb. Have a lot of errors, just figuring out dependencies, because I am using code from a part of the EMF Event B Framework.
