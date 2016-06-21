@@ -53,3 +53,6 @@ Friday 17 June
 Week 3
 Monday 20 June
 -Looking into making a plugin that can be used 'headlessly' that saves the files as .xmb. Have a lot of errors, just figuring out dependencies, because I am using code from a part of the EMF Event B Framework.
+
+Tuesday 21 June
+-Same as yesterday, have reolved most of the errors, having a problem with a plugin dependency. Need to figure out how to test it to see if it works.
