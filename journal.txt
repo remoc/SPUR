@@ -59,3 +59,7 @@ Tuesday 21 June
 
 Wednesday 22 June
 -Solved some errors only to cause others, not sure if the code does what I think it does, need to test it soon.
+
+Thursday 23 June
+-Went to a meeting where Marie talked about what she was doing, and James told us about an interesting programming language Piets.
+-Solved alot of the errors in my plugin with the help of Marie.
