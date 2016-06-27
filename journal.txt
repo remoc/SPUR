@@ -63,3 +63,13 @@ Wednesday 22 June
 Thursday 23 June
 -Went to a meeting where Marie talked about what she was doing, and James told us about an interesting programming language Piets.
 -Solved alot of the errors in my plugin with the help of Marie.
+
+Friday 24 June
+-Had a doctor's appointment.
+
+Week 3
+Monday 27 June
+-Got sudo rights for my machine, got staff number and some other stuff sorted out.
+-Still having problems making my plugin.
+-Decided to try Ubuntu to see about Rodin headless build. Running into some problems.
+-Ended up running the headless build. If this will allow me to run the plugin is the next question.
