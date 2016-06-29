@@ -77,3 +77,7 @@ Monday 27 June
 Tuesday 28 June
 -Got an error free plugin, problems with headless Rodin. Going to adjust my focus more to finding the code clones.
 -The answer to yesterday's question is a no... (at least for now)
+
+Wednesday 29 June 
+-Talked to Marie about my plugin, going to download a new version of eclipse to see if that changes anything and leave aside headless for now. Might try to easily incorporate into the UI?
+-Taking a second look at the Code Clones paper. Need to see if EMF compare is a good way to find clones so I'm also taking a look through the code for it, to see what they ignore when making the comparisons.
