@@ -67,7 +67,7 @@ Thursday 23 June
 Friday 24 June
 -Had a doctor's appointment.
 
-Week 3
+Week 4
 Monday 27 June
 -Got sudo rights for my machine, got staff number and some other stuff sorted out.
 -Still having problems making my plugin.
@@ -81,3 +81,7 @@ Tuesday 28 June
 Wednesday 29 June 
 -Talked to Marie about my plugin, going to download a new version of eclipse to see if that changes anything and leave aside headless for now. Might try to easily incorporate into the UI?
 -Taking a second look at the Code Clones paper. Need to see if EMF compare is a good way to find clones so I'm also taking a look through the code for it, to see what they ignore when making the comparisons.
+
+Thursday 30 June
+-Spent most of the day looking for resources for finding code clones, emf compare is good and bad, in that if they are not in the same order it will not notice the similarity of those two parts of the code. Most code clone detection programs seem to be for Java or C++.
+-Trying to figure out what direction to take with the plugin, downloaded Eclipse on my laptop and that seems to have got rid of the problems Marie and I were looking at yesterday. Haven't got a working plugin yet though, might try to take a different direction, like mentioned above.
