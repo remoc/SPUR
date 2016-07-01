@@ -85,3 +85,6 @@ Wednesday 29 June
 Thursday 30 June
 -Spent most of the day looking for resources for finding code clones, emf compare is good and bad, in that if they are not in the same order it will not notice the similarity of those two parts of the code. Most code clone detection programs seem to be for Java or C++.
 -Trying to figure out what direction to take with the plugin, downloaded Eclipse on my laptop and that seems to have got rid of the problems Marie and I were looking at yesterday. Haven't got a working plugin yet though, might try to take a different direction, like mentioned above.
+
+Friday 1 July
+-Had meeting in the morning. Now looking at the different algorithms used to detect code clones to see which would be suitable to use for Event-B.
