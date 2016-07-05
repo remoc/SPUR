@@ -88,3 +88,15 @@ Thursday 30 June
 
 Friday 1 July
 -Had meeting in the morning. Now looking at the different algorithms used to detect code clones to see which would be suitable to use for Event-B.
+
+Week 5
+Monday 4 July
+-Met with James and Marie. I know have an outline of what to do for the next few days:
+  1.Make a program that compares files and tells you if their events are the exact same.
+  2.Make a program that tells you if the events are subsets.
+  3.Parameterised clones, this'll be the hardest, especially with 2.
+-I started working on 1 with the .xmb files. I am able to parse the file in python with Elementtree and print out the event name, guard and actions with no difficultly. 
+
+Tuesday 5 July
+-Have changed to using .bum files after seeing James' email, he was right to  parse the .bum files (easier to get than the .xmb).
+-Have 1 and 2 done to an okay standard in Python, not sure if the program is well written and would stand up to a large input, but I guess I can test it out. Now how do I deal with parameterised clones is the question. I also might need to improve the part that finds the subsets, I think maybe it should work if there is any intersection of a reasonable size between them instead of what I currently have.
