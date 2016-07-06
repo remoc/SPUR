@@ -100,3 +100,7 @@ Monday 4 July
 Tuesday 5 July
 -Have changed to using .bum files after seeing James' email, he was right to  parse the .bum files (easier to get than the .xmb).
 -Have 1 and 2 done to an okay standard in Python, not sure if the program is well written and would stand up to a large input, but I guess I can test it out. Now how do I deal with parameterised clones is the question. I also might need to improve the part that finds the subsets, I think maybe it should work if there is any intersection of a reasonable size between them instead of what I currently have.
+
+Wednesday 6 July
+-Changed the way the files are accessed, now it will find .bum inside files, and you can give any path and it will find it (I had made the mistake of not allowing for this yesterday). It takes around 25 second to look through my whole home directory.
+-Implementing the Jaccard index that James emailed me about, just need to get it into the 2D array, have it just printing values currently.
