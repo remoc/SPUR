@@ -104,3 +104,6 @@ Tuesday 5 July
 Wednesday 6 July
 -Changed the way the files are accessed, now it will find .bum inside files, and you can give any path and it will find it (I had made the mistake of not allowing for this yesterday). It takes around 25 second to look through my whole home directory.
 -Implementing the Jaccard index that James emailed me about, just need to get it into the 2D array, have it just printing values currently.
+
+Thursday 7 July
+-Finally figured out how to get the 2D array working in a way that prints out nicely (after a number of formatting errors), seems to all work okay. Need to make some nice tests to show tomorrow.
