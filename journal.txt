@@ -107,3 +107,7 @@ Wednesday 6 July
 
 Thursday 7 July
 -Finally figured out how to get the 2D array working in a way that prints out nicely (after a number of formatting errors), seems to all work okay. Need to make some nice tests to show tomorrow.
+
+Friday 8 July
+-I am able to parse the .bum files in the .zip folders, just need to try and fit it in with the code I have now, might need to change a few functions around.
+-Put up the code for I have for the moment (not including the changes I'm making to get the .zip folders as it is not working as I'd like at the moment, so I'll try to finish it this weekend)
