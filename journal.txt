@@ -113,8 +113,12 @@ Friday 8 July
 -Put up the code for I have for the moment (not including the changes I'm making to get the .zip folders as it is not working as I'd like at the moment, so I'll try to finish it this weekend)
 
 Week 6
-Monday 12 July
+Monday 11 July
 -Got the .zip folders working which is helpful.
 -Started getting the pattern so we can use the best_matching.py that James sent me today which will find the best renaming set through comparison.
-Tuesday 13 July
+
+Tuesday 12 July
 -Finished getting the patterns, need to see what the results are when used with best_matching.py.
+
+Wednesday 13 July
+-James sent on a more efficient best_matching.py. Testing it out with my code, it seems to be working on a simple test.
