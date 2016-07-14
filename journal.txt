@@ -122,3 +122,9 @@ Tuesday 12 July
 
 Wednesday 13 July
 -James sent on a more efficient best_matching.py. Testing it out with my code, it seems to be working on a simple test.
+
+Thursday 14 July
+-Removing INITIALISATION, and now it doesn't take as long (still over 3 mins for check zip test). Implementing machines comparison.
+-Still to do:
+  -JI after renaming
+  -Take in invariants
