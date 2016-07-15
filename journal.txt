@@ -128,3 +128,7 @@ Thursday 14 July
 -Still to do:
   -JI after renaming
   -Take in invariants
+
+Friday 15 July
+-Last day, went to meeting in the morning and went through what I have done. 
+-Putting up code on GitHub, it does not rename and recalcultae the Jaccard Index (which I may try to finish at home over the weekend) and runs slowly for large programs.
